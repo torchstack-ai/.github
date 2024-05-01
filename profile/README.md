@@ -1,4 +1,10 @@
-## Hi there 👋
+## Torchstack.ai
+
+Hey there! 
+
+At Torchstack, we provide custom AI services, including fine-tuning custom chatbots, building Retrieval Augmented Generation systems, developing out proof-of-concepts for startups, and many more services. 
+
+For more about us and some of the projects we have worked on in the past, please visit our [website](https://torchstack.ai/).
 
 <!--
 
