@@ -2,7 +2,8 @@
 
 Hey there! 
 
-At Torchstack, we provide custom AI services, including fine-tuning custom chatbots, building Retrieval Augmented Generation systems, developing out proof-of-concepts for startups, and many more services. 
+### Who are we?
+At Torchstack, we provide custom AI services, including fine-tuning custom chatbots, building Retrieval Augmented Generation systems, developing out proof-of-concepts for startups, Fractional CTO services, and many more offerings that can support your data, AI, and IT team needs. Our team consists of data scientists, ML engineers, AI researchers, and cloud experts that have worked in the industry for years, working primarily with several small businesses and startups to realize their visions. 
 
 For more about us and some of the projects we have worked on in the past, please visit our [website](https://torchstack.ai/).
 
