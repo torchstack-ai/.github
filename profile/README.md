@@ -3,8 +3,19 @@
 Hey there! 
 
 ### Who are we?
-At Torchstack, we provide custom AI services, including fine-tuning custom chatbots, building Retrieval Augmented Generation systems, developing out proof-of-concepts for startups, Fractional CTO services, and many more offerings that can support your data, AI, and IT team needs. Our team consists of data scientists, ML engineers, AI researchers, and cloud experts that have worked in the industry for years, working primarily with several small businesses and startups to realize their visions. 
+Our founder [Scott Campit, Ph.D.](https://www.linkedin.com/in/scottcampit/) leads a small team of data scientists, ML engineers, AI researchers, and cloud experts that have worked in the industry for years, working primarily with several small businesses and startups to realize their visions. 
 
+### What can we do for you?
+At Torchstack, we provide custom AI services of various scale, including:
+* Fine-tuning custom chatbots
+* Building Retrieval Augmented Generation (RAG) systems,
+* Developing out proof-of-concepts for startups,
+* Building Cloud infrastructure with certified AWS Cloud Solutions Architects
+* Fractional CTO services,
+
+And many more offerings that can support your data, AI, and IT team needs. 
+
+### Where can you find us?
 For more about us and some of the projects we have worked on in the past, please visit our [website](https://torchstack.ai/).
 
 <!--
