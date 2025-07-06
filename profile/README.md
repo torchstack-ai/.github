@@ -7,8 +7,11 @@ From initial concept to launch, we provide end-to-end development, engineering, 
 
 ### Why choose us:
 ✓ Reliable delivery – We hit deadlines and stay within budget
+
 ✓ Startup-focused – We understand lean methodologies and MVP thinking
+
 ✓ Full-stack expertise – One team handles everything from branding to AI implementation
+
 ✓ Progressive approach – We use cutting-edge tools and frameworks to give you a competitive edge
 
 Ready to build something extraordinary? Let's talk about your AI product vision. Schedule a free introductory call [here](https://calendly.com/torchstack/scampit-office-hours?month=2025-07).
