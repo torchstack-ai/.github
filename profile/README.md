@@ -10,8 +10,6 @@ Most engagements start with one of these:
 - **Workshops & training** — for teams that want to build internal AI literacy rather than outsource it.
 - **Fractional technical leadership** — ongoing help on AI architecture, hiring, and roadmap.
 
-Larger custom platform builds grow out of these engagements once we know each other.
-
 If you're a founder considering working with us, the front door is **[torchstack.ai](https://torchstack.ai)**. We provide a free 15-minute intro call to identify how we can work together.
 
 ## What's in this org
